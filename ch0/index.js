@@ -1,6 +1,1 @@
-
-Object.values({
-  0: { name: 'Jon', lastname: 'Doe' },
-  1: { name: 'Linus', lastname: 'Torlvalds' },
-  2: { name: 'Mark', lastname: 'Zuckerberg' }
-});
+export const ch0 = obj => Object.values;
