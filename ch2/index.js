@@ -1,0 +1,1 @@
+export const ch2 = num => (num + '').length < 6 && (num + '').padStart(5, 0);
